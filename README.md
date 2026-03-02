@@ -1,118 +1,216 @@
 <p align="center">
-  <img src="Image%20folders/1.png" width="100%" alt="Portfolio Banner"/>
+  <img src="Image%20folders/Week1%20image.png" width="100%" alt="Data Technician Portfolio Banner"/>
 </p>
 
 <h1 align="center">Jonathan Akpofure</h1>
-<h3 align="center">Data Technician | Aspiring Data Analyst | Structured Problem Solver</h3>
+<h3 align="center">Data Technician | Data Analyst in Training | Technical Problem Solver</h3>
 
 <p align="center">
-  <a href="Data%20Technican%20Week%20WorkBooks/Data_Technician_Week_1_WorkBook.pdf">View Work</a> •
-  <a href="Data%20Technican%20Week%20WorkBooks/Data_Technician_Week_5_WorkBook.pdf">Latest Workbook</a>
+  Structured • Analytical • Detail-Oriented • Career-Focused
 </p>
 
 ---
 
-## 👨‍💻 Professional Profile
+# 👨‍💼 Professional Profile
 
-Detail-oriented and analytical Data Technician with hands-on experience in structured workbook projects, data documentation, and analytical reporting.  
+Motivated and detail-driven Data Technician with structured hands-on training across data analysis, visualisation, database management, cloud fundamentals, and programming.
 
-This repository showcases applied learning, technical exercises, and practical coursework demonstrating structured data handling, reporting accuracy, and analytical progression.
+This repository showcases completed weekly technical workbooks alongside practical project visuals demonstrating applied skills in:
 
-I am committed to continuous improvement and building strong technical foundations within data analysis and data operations environments.
+- Data analysis & reporting  
+- Dashboard development  
+- Database structuring & SQL  
+- Cloud data fundamentals (Azure)  
+- Python for automation & analysis  
+- Business-focused data thinking  
 
 ---
 
-## 🛠 Core Skills & Tools
+# 🛠 Technical Skills & Tools
 
 <p align="center">
 
 ![Excel](https://img.shields.io/badge/Microsoft_Excel-Advanced-217346?style=for-the-badge&logo=microsoft-excel&logoColor=white)
-![Data Analysis](https://img.shields.io/badge/Data_Analysis-Intermediate-blue?style=for-the-badge)
-![Documentation](https://img.shields.io/badge/Technical_Documentation-Strong-informational?style=for-the-badge)
-![Problem Solving](https://img.shields.io/badge/Problem_Solving-Structured-success?style=for-the-badge)
-![Reporting](https://img.shields.io/badge/Data_Reporting-Professional-orange?style=for-the-badge)
+![SQL](https://img.shields.io/badge/SQL-Intermediate-blue?style=for-the-badge)
+![Tableau](https://img.shields.io/badge/Tableau-Visualisation-orange?style=for-the-badge&logo=tableau)
+![PowerBI](https://img.shields.io/badge/Power_BI-Dashboarding-yellow?style=for-the-badge&logo=powerbi)
+![Python](https://img.shields.io/badge/Python-Data_Analysis-3776AB?style=for-the-badge&logo=python&logoColor=white)
+![Azure](https://img.shields.io/badge/Microsoft_Azure-Fundamentals-0078D4?style=for-the-badge&logo=microsoft-azure&logoColor=white)
 
 </p>
 
 ---
 
-# 📊 Portfolio Showcase
+# 📊 Programme Breakdown & Portfolio Showcase
 
-## 🔎 Project Visual Overview
+---
+
+## ✅ Week 1 – Introduction to Data & Excel (4 Days)
+
+**Topics Covered:**
+- Data concepts & types  
+- Importance of data in decision making  
+- Data lifecycle management  
+- Excel data entry  
+- Data analysis & visualisation  
+
+📄 **Workbook:**  
+[View Week 1 Workbook](Data%20Technician%20WorkBooks/Data_Technician_Week_1_WorkBook.pdf)
+
+### 📷 Project Visuals
 
 <p align="center">
-  <img src="Image%20folders/2.png" width="80%" alt="Workbook Visual"/>
+  <img src="Image%20folders/Week1%20image.png" width="80%"/>
 </p>
 
 <p align="center">
-  <img src="Image%20folders/3.png" width="80%" alt="Workbook Visual"/>
+  <img src="Image%20folders/Week1.2%20image.png" width="80%"/>
+</p>
+
+---
+
+## ✅ Week 2 – Introduction to Tableau & Power BI (4 Days)
+
+**Topics Covered:**
+- Navigation, features & functions  
+- Importing datasets  
+- Performing data analysis  
+- Creating dashboards & visual reports  
+
+📄 **Workbook:**  
+[View Week 2 Workbook](Data%20Technician%20WorkBooks/Data_Technician_Week_2_WorkBook.pdf)
+
+### 📷 Project Visuals
+
+<p align="center">
+  <img src="Image%20folders/Week2%20image.png" width="80%"/>
 </p>
 
 <p align="center">
-  <img src="Image%20folders/4.png" width="80%" alt="Workbook Visual"/>
+  <img src="Image%20folders/Week2.2%20image.png" width="80%"/>
 </p>
 
-These visuals represent structured workbook exercises, analytical tasks, and applied coursework projects completed during my Data Technician training.
+---
+
+## ✅ Week 3 – Database Design & SQL (4 Days)
+
+**Topics Covered:**
+- Database structuring  
+- Relational database design  
+- Entry normalisation  
+- SQL fundamentals  
+- Creating, reading, updating & deleting records  
+
+📄 **Workbook:**  
+[View Week 3 Workbook](Data%20Technician%20WorkBooks/Data_Techncian_Week_3_WorkBook.pdf)
+
+### 📷 Project Visuals
+
+<p align="center">
+  <img src="Image%20folders/Week3%20image.png" width="80%"/>
+</p>
+
+<p align="center">
+  <img src="Image%20folders/Week3.2%20image.png" width="80%"/>
+</p>
 
 ---
 
-# 📘 Data Technician Weekly Workbooks
+## ⚠️ Week 4 – Career Support (No Technical Workbook)
 
-A structured progression of completed coursework:
+Week 4 was dedicated to professional development and employability skills:
 
-### ✅ Week 1  
-📄 [View Workbook](Data%20Technican%20Week%20WorkBooks/Data_Technician_Week_1_WorkBook.pdf)
+- CV writing  
+- Elevator pitches  
+- Hire or Fire workshop  
+- SMART goals  
+- Overcoming barriers  
+- Structured job search strategies  
 
-### ✅ Week 2  
-📄 [View Workbook](Data%20Technican%20Week%20WorkBooks/Data_Technician_Week_2_WorkBook.pdf)
-
-### ✅ Week 3  
-📄 [View Workbook](Data%20Technican%20Week%20WorkBooks/Data_Technican_Week_3_WorkBook.pdf)
-
-### ✅ Week 5  
-📄 [View Workbook](Data%20Technican%20Week%20WorkBooks/Data_Technician_Week_5_WorkBook.pdf)
-
-### ✅ Week 6  
-📄 [View Workbook](Data%20Technican%20Week%20WorkBooks/Data_Technican_Week_6_WorkBook.pdf)
+This week focused on preparing for industry readiness and career positioning.
 
 ---
 
-# 📈 Competencies Demonstrated
+## ✅ Week 5 – Fundamentals of Azure (4 Days)
 
-- Data interpretation and structured analysis  
-- Spreadsheet-based modelling and documentation  
-- Accuracy in technical reporting  
-- Logical problem-solving methodologies  
-- Organised file and workflow management  
-- Progressive skill development across multiple modules  
+**Topics Covered:**
+- Core data concepts  
+- Data storage, management & processing  
+- Relational vs non-relational data  
+- Azure analytics workloads  
+
+📄 **Workbook:**  
+[View Week 5 Workbook](Data%20Technician%20WorkBooks/Data_Technician_Week_5_WorkBook.pdf)
+
+### 📷 Project Visuals
+
+<p align="center">
+  <img src="Image%20folders/Week5%20image.png" width="80%"/>
+</p>
+
+<p align="center">
+  <img src="Image%20folders/Week5.1%20image.png" width="80%"/>
+</p>
+
+<p align="center">
+  <img src="Image%20folders/Week5.2image.png" width="80%"/>
+</p>
 
 ---
 
-# 📂 Repository Structure
+## ✅ Week 6 – Introduction to Python (4 Days)
 
+**Topics Covered:**
+- Introduction to programming  
+- Using simple syntax for analysis & automation  
+- Pandas & NumPy for data manipulation  
+- Matplotlib & Seaborn for data visualisation  
 
+📄 **Workbook:**  
+[View Week 6 Workbook](Data%20Technician%20WorkBooks/Data_Technican_Week_6_WorkBook.pdf)
 
+### 📷 Project Visuals
 
+<p align="center">
+  <img src="Image%20folders/Week6%20image.png" width="80%"/>
+</p>
+
+<p align="center">
+  <img src="Image%20folders/Week6.2%20image.png" width="80%"/>
+</p>
 
 ---
 
-# 🎯 Career Focus
+# 🎯 Professional Strengths Demonstrated
 
-I am actively developing my expertise toward:
+- Structured analytical thinking  
+- Technical documentation & reporting  
+- Data visualisation principles  
+- SQL database management  
+- Cloud data fundamentals  
+- Python-based data manipulation  
+- Professional workplace readiness  
+
+---
+
+# 📈 Career Direction
+
+I am actively pursuing opportunities in:
 
 - Data Analyst roles  
 - Business Intelligence support  
-- Reporting & Insights positions  
-- Data Operations roles  
+- Data Operations  
+- Junior SQL / Reporting roles  
+- Cloud data environments  
 
-This portfolio reflects foundational capability and professional discipline within structured data environments.
+This portfolio reflects foundational capability, structured technical progression, and industry-ready development.
 
 ---
 
 <p align="center">
-  <strong>Open to opportunities and collaborative projects.</strong>
+  <strong>Open to data-focused opportunities and collaborative projects.</strong>
 </p>
 
 <p align="center">
-  ⭐ If you find this portfolio valuable, feel free to explore the workbooks above.
+  ⭐ Thank you for reviewing my Data Technician Portfolio.
 </p>
