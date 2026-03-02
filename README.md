@@ -1,71 +1,110 @@
-# 🎓 Data Technician Professional Portfolio
-![Excel](https://img.shields.io)
-![SQL](https://img.shields.io)
-![Power BI](https://img.shields.io)
-![Python](https://img.shields.io)
+# 📊 Jonathan Akpofure – Data Technician Portfolio
 
-## 🚀Data Technician Skills Program
- About the Program
- 
-This repository documents my journey through an intensive 8-week Data Technician Bootcamp delivered by Leep Talent. Through this program, I have developed a solid technical foundation in data lifecycle management, cloud infrastructure, and advanced analytics. This portfolio serves as a record of the skills I have built and a base that I am actively improving upon as I transition into professional/apprenticeship data analyst roles.
+Welcome to my Data Technician portfolio repository.  
+This repository showcases my structured weekly workbook progress and practical learning journey in data analysis, reporting, and technical documentation.
 
+It demonstrates my development in:
 
----
-
-## 🗓️ Curriculum Roadmap
-
-### 📊 Week 1: Introduction to Data & Excel
-*Focus: Data Foundations and Exploratory Analysis*
-- **Core Concepts:** Data lifecycles, data types (structured vs. unstructured), and the role of data in strategic decision-making.
-- **Technical Skills:** Advanced data entry, hygiene, and cleansing.
-- **Analysis:** Leveraging Excel for statistical analysis and creating dynamic visualisations to communicate insights.
-
-### 📈 Week 2: Business Intelligence (Tableau & Power BI)
-*Focus: Interactive Dashboards and Data Storytelling*
-- **Navigation:** Deep dive into the UI, features, and functions of industry-leading BI tools.
-- **ETL Processes:** Importing data from diverse sources and performing data transformations.
-- **Visualisation:** Conducting end-to-end data analysis and building interactive reports for stakeholders.
-
-### 🗄️ Week 3: Database Design & SQL
-*Focus: Relational Databases and Data Manipulation*
-- **Architecture:** Database structuring and relational design principles (ERDs).
-- **Normalization:** Implementing entry-level normalization to ensure data integrity.
-- **SQL Mastery:** Full **CRUD** (Create, Read, Update, Delete) operations and complex querying for data retrieval.
-
-> 💡 **Note on Week 4:** Week 4 was dedicated to **Career Support & Professional Branding**, including CV optimization, elevator pitches, LinkedIn profile enhancements, and interview coaching.
-
-### ☁️ Week 5: Fundamentals of Microsoft Azure
-*Focus: Cloud Data Solutions & Infrastructure*
-- **Cloud Concepts:** Understanding how data is stored, managed, and processed at scale in the cloud.
-- **Data Models:** Comparative analysis of relational vs. non-relational (NoSQL) data storage.
-- **Analytics:** Exploring Azure analytics workloads and modern data warehousing.
-
-### 🐍 Week 6: Programming for Data (Python)
-*Focus: Automation and Advanced Analytics*
-- **Foundations:** Introduction to programming logic, syntax, and automation scripts.
-- **Data Manipulation:** Using **Pandas** and **NumPy** for high-performance data processing.
-- **Visualization:** Crafting sophisticated statistical graphics using **Matplotlib** and **Seaborn**.
-
-- # Week 7 - Consolidation - GitHub Portfolio (4 days)
-
-* Combining all bootcamp projects into one GitHub portfolio; showing your proficiency in the tools & techniques learnt. This will be a valuable asset for job searches and professional development.
-
+- Data handling and organisation  
+- Analytical thinking  
+- Documentation and reporting  
+- Technical workbook completion  
+- Structured learning progression  
 
 ---
 
-## 🛠️ Technical Stack Summary
+# 📁 Repository Overview
 
+This repository contains:
 
-| Category | Tools & Languages |
-| :--- | :--- |
-| **Analysis** | Excel, Python (Pandas, NumPy) |
-| **Visualisation** | Power BI, Tableau, Matplotlib, Seaborn |
-| **Databases** | SQL (PostgreSQL/MySQL), Relational Design |
-| **Cloud** | Microsoft Azure Fundamentals |
+- 📘 Weekly Data Technician Workbooks (PDF submissions)
+- 🖼️ Supporting project visuals and screenshots
+- 📂 Organised folder structure for clear navigation
 
 ---
-*Developed during the Leep Talent Data Bootcamp • 2026*
 
+# 🚀 About This Portfolio
+
+This portfolio reflects my hands-on training and practical coursework as a Data Technician.  
+Each workbook represents applied knowledge, structured exercises, and competency development across multiple weeks of study.
+
+The screenshots included below provide visual context of my work and project outputs.
 
 ---
-*Last updated: March 2026*
+
+# 🖼️ Project Visual Gallery
+
+Below are visual representations from my workbook activities and project work.
+
+---
+
+## 📌 Workbook Visual 1
+
+![Workbook Visual 1](Image%20folders/1.png)
+
+---
+
+## 📌 Workbook Visual 2
+
+![Workbook Visual 2](Image%20folders/2.png)
+
+---
+
+## 📌 Workbook Visual 3
+
+![Workbook Visual 3](Image%20folders/3.png)
+
+---
+
+## 📌 Workbook Visual 4
+
+![Workbook Visual 4](Image%20folders/4.png)
+
+---
+
+# 📘 Data Technician Weekly Workbooks
+
+Below are the completed weekly workbook submissions included in this repository:
+
+---
+
+### ✅ Week 1 Workbook  
+[Open Week 1 Workbook (PDF)](Data%20Technican%20Week%20WorkBooks/Data_Technician_Week_1_WorkBook.pdf)
+
+---
+
+### ✅ Week 2 Workbook  
+[Open Week 2 Workbook (PDF)](Data%20Technican%20Week%20WorkBooks/Data_Technician_Week_2_WorkBook.pdf)
+
+---
+
+### ✅ Week 3 Workbook  
+[Open Week 3 Workbook (PDF)](Data%20Technican%20Week%20WorkBooks/Data_Techncian_Week_3_WorkBook.pdf)
+
+---
+
+### ✅ Week 5 Workbook  
+[Open Week 5 Workbook (PDF)](Data%20Technican%20Week%20WorkBooks/Data_Technician_Week_5_WorkBook.pdf)
+
+---
+
+### ✅ Week 6 Workbook  
+[Open Week 6 Workbook (PDF)](Data%20Technican%20Week%20WorkBooks/Data_Technican_Week_6_WorkBook.pdf)
+
+---
+
+# 🛠 Skills Demonstrated
+
+Throughout these workbooks, I have developed and demonstrated:
+
+- Data interpretation and analysis  
+- Structured documentation  
+- Spreadsheet proficiency  
+- Technical reporting  
+- Logical problem solving  
+- Organised file management  
+- Attention to detail  
+
+---
+
+# 📂 Folder Structure
