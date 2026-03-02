@@ -11,7 +11,7 @@
 
 ---
 
-# 👨‍💼 Professional Profile
+#  Professional Profile
 
 Motivated and detail-driven Data Technician with structured hands-on training across data analysis, visualisation, database management, cloud fundamentals, and programming.
 
@@ -26,7 +26,7 @@ This repository showcases completed weekly technical workbooks alongside practic
 
 ---
 
-# 🛠 Technical Skills & Tools
+#  Technical Skills & Tools
 
 <p align="center">
 
@@ -41,11 +41,11 @@ This repository showcases completed weekly technical workbooks alongside practic
 
 ---
 
-# 📊 Programme Breakdown & Portfolio Showcase
+#  Programme Breakdown & Portfolio Showcase
 
 ---
 
-## ✅ Week 1 – Introduction to Data & Excel (4 Days)
+##  Week 1 – Introduction to Data & Excel (4 Days)
 
 **Topics Covered:**
 - Data concepts & types  
@@ -54,10 +54,10 @@ This repository showcases completed weekly technical workbooks alongside practic
 - Excel data entry  
 - Data analysis & visualisation  
 
-📄 **Workbook:**  
+ **Workbook:**  
 [View Week 1 Workbook](Data%20Technician%20WorkBooks/Data_Technician_Week_1_WorkBook.pdf)
 
-### 📷 Project Visuals
+###  Project Visuals
 
 <p align="center">
   <img src="Image%20folders/Week1%20image.png" width="80%"/>
@@ -69,7 +69,7 @@ This repository showcases completed weekly technical workbooks alongside practic
 
 ---
 
-## ✅ Week 2 – Introduction to Tableau & Power BI (4 Days)
+##  Week 2 – Introduction to Tableau & Power BI (4 Days)
 
 **Topics Covered:**
 - Navigation, features & functions  
@@ -77,10 +77,10 @@ This repository showcases completed weekly technical workbooks alongside practic
 - Performing data analysis  
 - Creating dashboards & visual reports  
 
-📄 **Workbook:**  
+ **Workbook:**  
 [View Week 2 Workbook](Data%20Technician%20WorkBooks/Data_Technician_Week_2_WorkBook.pdf)
 
-### 📷 Project Visuals
+###  Project Visuals
 
 <p align="center">
   <img src="Image%20folders/Week2%20image.png" width="80%"/>
@@ -92,7 +92,7 @@ This repository showcases completed weekly technical workbooks alongside practic
 
 ---
 
-## ✅ Week 3 – Database Design & SQL (4 Days)
+##  Week 3 – Database Design & SQL (4 Days)
 
 **Topics Covered:**
 - Database structuring  
@@ -101,10 +101,10 @@ This repository showcases completed weekly technical workbooks alongside practic
 - SQL fundamentals  
 - Creating, reading, updating & deleting records  
 
-📄 **Workbook:**  
+ **Workbook:**  
 [View Week 3 Workbook](Data%20Technician%20WorkBooks/Data_Techncian_Week_3_WorkBook.pdf)
 
-### 📷 Project Visuals
+###  Project Visuals
 
 <p align="center">
   <img src="Image%20folders/Week3%20image.png" width="80%"/>
@@ -116,7 +116,7 @@ This repository showcases completed weekly technical workbooks alongside practic
 
 ---
 
-## ⚠️ Week 4 – Career Support (No Technical Workbook)
+##  Week 4 – Career Support (No Technical Workbook)
 
 Week 4 was dedicated to professional development and employability skills:
 
@@ -139,10 +139,10 @@ This week focused on preparing for industry readiness and career positioning.
 - Relational vs non-relational data  
 - Azure analytics workloads  
 
-📄 **Workbook:**  
+ **Workbook:**  
 [View Week 5 Workbook](Data%20Technician%20WorkBooks/Data_Technician_Week_5_WorkBook.pdf)
 
-### 📷 Project Visuals
+###  Project Visuals
 
 <p align="center">
   <img src="Image%20folders/Week5%20image.png" width="80%"/>
@@ -158,7 +158,7 @@ This week focused on preparing for industry readiness and career positioning.
 
 ---
 
-## ✅ Week 6 – Introduction to Python (4 Days)
+##  Week 6 – Introduction to Python (4 Days)
 
 **Topics Covered:**
 - Introduction to programming  
@@ -166,7 +166,7 @@ This week focused on preparing for industry readiness and career positioning.
 - Pandas & NumPy for data manipulation  
 - Matplotlib & Seaborn for data visualisation  
 
-📄 **Workbook:**  
+ **Workbook:**  
 [View Week 6 Workbook](Data%20Technician%20WorkBooks/Data_Technican_Week_6_WorkBook.pdf)
 
 ### 📷 Project Visuals
@@ -181,7 +181,7 @@ This week focused on preparing for industry readiness and career positioning.
 
 ---
 
-# 🎯 Professional Strengths Demonstrated
+#  Professional Strengths Demonstrated
 
 - Structured analytical thinking  
 - Technical documentation & reporting  
@@ -193,7 +193,7 @@ This week focused on preparing for industry readiness and career positioning.
 
 ---
 
-# 📈 Career Direction
+#  Career Direction
 
 I am actively pursuing opportunities in:
 
@@ -213,5 +213,5 @@ This portfolio reflects foundational capability, structured technical progressio
 </p>
 
 <p align="center">
-  ⭐ Thank you for reviewing my Data Technician Portfolio.
+   Thank you for reviewing my Data Technician Portfolio.
 </p>
