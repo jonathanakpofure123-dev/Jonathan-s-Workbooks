@@ -44,6 +44,11 @@ This repository documents my journey through an intensive 8-week Data Technician
 - **Data Manipulation:** Using **Pandas** and **NumPy** for high-performance data processing.
 - **Visualization:** Crafting sophisticated statistical graphics using **Matplotlib** and **Seaborn**.
 
+- # Week 7 - Consolidation - GitHub Portfolio (4 days)
+
+* Combining all bootcamp projects into one GitHub portfolio; showing your proficiency in the tools & techniques learnt. This will be a valuable asset for job searches and professional development.
+
+
 ---
 
 ## 🛠️ Technical Stack Summary
