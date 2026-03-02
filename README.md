@@ -1,71 +1,118 @@
-# 🎓 Data Technician Professional Portfolio
-![Excel](https://img.shields.io)
-![SQL](https://img.shields.io)
-![Power BI](https://img.shields.io)
-![Python](https://img.shields.io)
+<p align="center">
+  <img src="Image%20folders/1.png" width="100%" alt="Portfolio Banner"/>
+</p>
 
-## 🚀Data Technician Skills Program
- About the Program
- 
-This repository documents my journey through an intensive 8-week Data Technician Bootcamp delivered by Leep Talent. Through this program, I have developed a solid technical foundation in data lifecycle management, cloud infrastructure, and advanced analytics. This portfolio serves as a record of the skills I have built and a base that I am actively improving upon as I transition into professional/apprenticeship data analyst roles.
+<h1 align="center">Jonathan Akpofure</h1>
+<h3 align="center">Data Technician | Aspiring Data Analyst | Structured Problem Solver</h3>
+
+<p align="center">
+  <a href="Data%20Technican%20Week%20WorkBooks/Data_Technician_Week_1_WorkBook.pdf">View Work</a> •
+  <a href="Data%20Technican%20Week%20WorkBooks/Data_Technician_Week_5_WorkBook.pdf">Latest Workbook</a>
+</p>
+
+---
+
+## 👨‍💻 Professional Profile
+
+Detail-oriented and analytical Data Technician with hands-on experience in structured workbook projects, data documentation, and analytical reporting.  
+
+This repository showcases applied learning, technical exercises, and practical coursework demonstrating structured data handling, reporting accuracy, and analytical progression.
+
+I am committed to continuous improvement and building strong technical foundations within data analysis and data operations environments.
+
+---
+
+## 🛠 Core Skills & Tools
+
+<p align="center">
+
+![Excel](https://img.shields.io/badge/Microsoft_Excel-Advanced-217346?style=for-the-badge&logo=microsoft-excel&logoColor=white)
+![Data Analysis](https://img.shields.io/badge/Data_Analysis-Intermediate-blue?style=for-the-badge)
+![Documentation](https://img.shields.io/badge/Technical_Documentation-Strong-informational?style=for-the-badge)
+![Problem Solving](https://img.shields.io/badge/Problem_Solving-Structured-success?style=for-the-badge)
+![Reporting](https://img.shields.io/badge/Data_Reporting-Professional-orange?style=for-the-badge)
+
+</p>
+
+---
+
+# 📊 Portfolio Showcase
+
+## 🔎 Project Visual Overview
+
+<p align="center">
+  <img src="Image%20folders/2.png" width="80%" alt="Workbook Visual"/>
+</p>
+
+<p align="center">
+  <img src="Image%20folders/3.png" width="80%" alt="Workbook Visual"/>
+</p>
+
+<p align="center">
+  <img src="Image%20folders/4.png" width="80%" alt="Workbook Visual"/>
+</p>
+
+These visuals represent structured workbook exercises, analytical tasks, and applied coursework projects completed during my Data Technician training.
+
+---
+
+# 📘 Data Technician Weekly Workbooks
+
+A structured progression of completed coursework:
+
+### ✅ Week 1  
+📄 [View Workbook](Data%20Technican%20Week%20WorkBooks/Data_Technician_Week_1_WorkBook.pdf)
+
+### ✅ Week 2  
+📄 [View Workbook](Data%20Technican%20Week%20WorkBooks/Data_Technician_Week_2_WorkBook.pdf)
+
+### ✅ Week 3  
+📄 [View Workbook](Data%20Technican%20Week%20WorkBooks/Data_Technican_Week_3_WorkBook.pdf)
+
+### ✅ Week 5  
+📄 [View Workbook](Data%20Technican%20Week%20WorkBooks/Data_Technician_Week_5_WorkBook.pdf)
+
+### ✅ Week 6  
+📄 [View Workbook](Data%20Technican%20Week%20WorkBooks/Data_Technican_Week_6_WorkBook.pdf)
+
+---
+
+# 📈 Competencies Demonstrated
+
+- Data interpretation and structured analysis  
+- Spreadsheet-based modelling and documentation  
+- Accuracy in technical reporting  
+- Logical problem-solving methodologies  
+- Organised file and workflow management  
+- Progressive skill development across multiple modules  
+
+---
+
+# 📂 Repository Structure
+
+
+
 
 
 ---
 
-## 🗓️ Curriculum Roadmap
+# 🎯 Career Focus
 
-### 📊 Week 1: Introduction to Data & Excel
-*Focus: Data Foundations and Exploratory Analysis*
-- **Core Concepts:** Data lifecycles, data types (structured vs. unstructured), and the role of data in strategic decision-making.
-- **Technical Skills:** Advanced data entry, hygiene, and cleansing.
-- **Analysis:** Leveraging Excel for statistical analysis and creating dynamic visualisations to communicate insights.
+I am actively developing my expertise toward:
 
-### 📈 Week 2: Business Intelligence (Tableau & Power BI)
-*Focus: Interactive Dashboards and Data Storytelling*
-- **Navigation:** Deep dive into the UI, features, and functions of industry-leading BI tools.
-- **ETL Processes:** Importing data from diverse sources and performing data transformations.
-- **Visualisation:** Conducting end-to-end data analysis and building interactive reports for stakeholders.
+- Data Analyst roles  
+- Business Intelligence support  
+- Reporting & Insights positions  
+- Data Operations roles  
 
-### 🗄️ Week 3: Database Design & SQL
-*Focus: Relational Databases and Data Manipulation*
-- **Architecture:** Database structuring and relational design principles (ERDs).
-- **Normalization:** Implementing entry-level normalization to ensure data integrity.
-- **SQL Mastery:** Full **CRUD** (Create, Read, Update, Delete) operations and complex querying for data retrieval.
-
-> 💡 **Note on Week 4:** Week 4 was dedicated to **Career Support & Professional Branding**, including CV optimization, elevator pitches, LinkedIn profile enhancements, and interview coaching.
-
-### ☁️ Week 5: Fundamentals of Microsoft Azure
-*Focus: Cloud Data Solutions & Infrastructure*
-- **Cloud Concepts:** Understanding how data is stored, managed, and processed at scale in the cloud.
-- **Data Models:** Comparative analysis of relational vs. non-relational (NoSQL) data storage.
-- **Analytics:** Exploring Azure analytics workloads and modern data warehousing.
-
-### 🐍 Week 6: Programming for Data (Python)
-*Focus: Automation and Advanced Analytics*
-- **Foundations:** Introduction to programming logic, syntax, and automation scripts.
-- **Data Manipulation:** Using **Pandas** and **NumPy** for high-performance data processing.
-- **Visualization:** Crafting sophisticated statistical graphics using **Matplotlib** and **Seaborn**.
-
-- # Week 7 - Consolidation - GitHub Portfolio (4 days)
-
-* Combining all bootcamp projects into one GitHub portfolio; showing your proficiency in the tools & techniques learnt. This will be a valuable asset for job searches and professional development.
-
+This portfolio reflects foundational capability and professional discipline within structured data environments.
 
 ---
 
-## 🛠️ Technical Stack Summary
+<p align="center">
+  <strong>Open to opportunities and collaborative projects.</strong>
+</p>
 
-
-| Category | Tools & Languages |
-| :--- | :--- |
-| **Analysis** | Excel, Python (Pandas, NumPy) |
-| **Visualisation** | Power BI, Tableau, Matplotlib, Seaborn |
-| **Databases** | SQL (PostgreSQL/MySQL), Relational Design |
-| **Cloud** | Microsoft Azure Fundamentals |
-
----
-*Developed during the Leep Talent Data Bootcamp • 2026*
-
-
----
-*Last updated: March 2026*
+<p align="center">
+  ⭐ If you find this portfolio valuable, feel free to explore the workbooks above.
+</p>
