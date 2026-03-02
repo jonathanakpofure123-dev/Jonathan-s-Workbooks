@@ -1,110 +1,118 @@
-# 📊 Jonathan Akpofure – Data Technician Portfolio
+<p align="center">
+  <img src="Image%20folders/1.png" width="100%" alt="Portfolio Banner"/>
+</p>
 
-Welcome to my Data Technician portfolio repository.  
-This repository showcases my structured weekly workbook progress and practical learning journey in data analysis, reporting, and technical documentation.
+<h1 align="center">Jonathan Akpofure</h1>
+<h3 align="center">Data Technician | Aspiring Data Analyst | Structured Problem Solver</h3>
 
-It demonstrates my development in:
-
-- Data handling and organisation  
-- Analytical thinking  
-- Documentation and reporting  
-- Technical workbook completion  
-- Structured learning progression  
-
----
-
-# 📁 Repository Overview
-
-This repository contains:
-
-- 📘 Weekly Data Technician Workbooks (PDF submissions)
-- 🖼️ Supporting project visuals and screenshots
-- 📂 Organised folder structure for clear navigation
+<p align="center">
+  <a href="Data%20Technican%20Week%20WorkBooks/Data_Technician_Week_1_WorkBook.pdf">View Work</a> •
+  <a href="Data%20Technican%20Week%20WorkBooks/Data_Technician_Week_5_WorkBook.pdf">Latest Workbook</a>
+</p>
 
 ---
 
-# 🚀 About This Portfolio
+## 👨‍💻 Professional Profile
 
-This portfolio reflects my hands-on training and practical coursework as a Data Technician.  
-Each workbook represents applied knowledge, structured exercises, and competency development across multiple weeks of study.
+Detail-oriented and analytical Data Technician with hands-on experience in structured workbook projects, data documentation, and analytical reporting.  
 
-The screenshots included below provide visual context of my work and project outputs.
+This repository showcases applied learning, technical exercises, and practical coursework demonstrating structured data handling, reporting accuracy, and analytical progression.
 
----
-
-# 🖼️ Project Visual Gallery
-
-Below are visual representations from my workbook activities and project work.
+I am committed to continuous improvement and building strong technical foundations within data analysis and data operations environments.
 
 ---
 
-## 📌 Workbook Visual 1
+## 🛠 Core Skills & Tools
 
-![Workbook Visual 1](Image%20folders/1.png)
+<p align="center">
 
----
+![Excel](https://img.shields.io/badge/Microsoft_Excel-Advanced-217346?style=for-the-badge&logo=microsoft-excel&logoColor=white)
+![Data Analysis](https://img.shields.io/badge/Data_Analysis-Intermediate-blue?style=for-the-badge)
+![Documentation](https://img.shields.io/badge/Technical_Documentation-Strong-informational?style=for-the-badge)
+![Problem Solving](https://img.shields.io/badge/Problem_Solving-Structured-success?style=for-the-badge)
+![Reporting](https://img.shields.io/badge/Data_Reporting-Professional-orange?style=for-the-badge)
 
-## 📌 Workbook Visual 2
-
-![Workbook Visual 2](Image%20folders/2.png)
-
----
-
-## 📌 Workbook Visual 3
-
-![Workbook Visual 3](Image%20folders/3.png)
+</p>
 
 ---
 
-## 📌 Workbook Visual 4
+# 📊 Portfolio Showcase
 
-![Workbook Visual 4](Image%20folders/4.png)
+## 🔎 Project Visual Overview
+
+<p align="center">
+  <img src="Image%20folders/2.png" width="80%" alt="Workbook Visual"/>
+</p>
+
+<p align="center">
+  <img src="Image%20folders/3.png" width="80%" alt="Workbook Visual"/>
+</p>
+
+<p align="center">
+  <img src="Image%20folders/4.png" width="80%" alt="Workbook Visual"/>
+</p>
+
+These visuals represent structured workbook exercises, analytical tasks, and applied coursework projects completed during my Data Technician training.
 
 ---
 
 # 📘 Data Technician Weekly Workbooks
 
-Below are the completed weekly workbook submissions included in this repository:
+A structured progression of completed coursework:
+
+### ✅ Week 1  
+📄 [View Workbook](Data%20Technican%20Week%20WorkBooks/Data_Technician_Week_1_WorkBook.pdf)
+
+### ✅ Week 2  
+📄 [View Workbook](Data%20Technican%20Week%20WorkBooks/Data_Technician_Week_2_WorkBook.pdf)
+
+### ✅ Week 3  
+📄 [View Workbook](Data%20Technican%20Week%20WorkBooks/Data_Technican_Week_3_WorkBook.pdf)
+
+### ✅ Week 5  
+📄 [View Workbook](Data%20Technican%20Week%20WorkBooks/Data_Technician_Week_5_WorkBook.pdf)
+
+### ✅ Week 6  
+📄 [View Workbook](Data%20Technican%20Week%20WorkBooks/Data_Technican_Week_6_WorkBook.pdf)
 
 ---
 
-### ✅ Week 1 Workbook  
-[Open Week 1 Workbook (PDF)](Data%20Technican%20Week%20WorkBooks/Data_Technician_Week_1_WorkBook.pdf)
+# 📈 Competencies Demonstrated
+
+- Data interpretation and structured analysis  
+- Spreadsheet-based modelling and documentation  
+- Accuracy in technical reporting  
+- Logical problem-solving methodologies  
+- Organised file and workflow management  
+- Progressive skill development across multiple modules  
 
 ---
 
-### ✅ Week 2 Workbook  
-[Open Week 2 Workbook (PDF)](Data%20Technican%20Week%20WorkBooks/Data_Technician_Week_2_WorkBook.pdf)
+# 📂 Repository Structure
+
+
+
+
 
 ---
 
-### ✅ Week 3 Workbook  
-[Open Week 3 Workbook (PDF)](Data%20Technican%20Week%20WorkBooks/Data_Techncian_Week_3_WorkBook.pdf)
+# 🎯 Career Focus
+
+I am actively developing my expertise toward:
+
+- Data Analyst roles  
+- Business Intelligence support  
+- Reporting & Insights positions  
+- Data Operations roles  
+
+This portfolio reflects foundational capability and professional discipline within structured data environments.
 
 ---
 
-### ✅ Week 5 Workbook  
-[Open Week 5 Workbook (PDF)](Data%20Technican%20Week%20WorkBooks/Data_Technician_Week_5_WorkBook.pdf)
+<p align="center">
+  <strong>Open to opportunities and collaborative projects.</strong>
+</p>
 
----
-
-### ✅ Week 6 Workbook  
-[Open Week 6 Workbook (PDF)](Data%20Technican%20Week%20WorkBooks/Data_Technican_Week_6_WorkBook.pdf)
-
----
-
-# 🛠 Skills Demonstrated
-
-Throughout these workbooks, I have developed and demonstrated:
-
-- Data interpretation and analysis  
-- Structured documentation  
-- Spreadsheet proficiency  
-- Technical reporting  
-- Logical problem solving  
-- Organised file management  
-- Attention to detail  
-
----
-
-# 📂 Folder Structure
+<p align="center">
+  ⭐ If you find this portfolio valuable, feel free to explore the workbooks above.
+</p>
