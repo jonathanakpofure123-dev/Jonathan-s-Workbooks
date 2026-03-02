@@ -1,9 +1,7 @@
-<p align="center">
-  <img src="Image%20folders/Week1%20image.png" width="100%" alt="Data Technician Portfolio Banner"/>
-</p>
+
 
 <h1 align="center">Jonathan Akpofure</h1>
-<h3 align="center">Data Technician | Data Analyst in Training | Technical Problem Solver</h3>
+<h3 align="center">Data Technician | Data Analyst in Training </h3>
 
 <p align="center">
   Structured • Analytical • Detail-Oriented • Career-Focused
