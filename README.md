@@ -198,6 +198,7 @@ This week focused on preparing for industry readiness and career positioning.
 I am actively pursuing opportunities in:
 
 - Data Analyst roles  
+- Data Analyst Apprenticeship roles  
 - Business Intelligence support  
 - Data Operations  
 - Junior SQL / Reporting roles  
