@@ -5,9 +5,8 @@
 ![Python](https://img.shields.io)
 
 ## 🚀 About the Program
-This repository documents my journey through an intensive **8-week Data Technician Bootcamp** delivered by **Leep Talent**. 
+This repository documents my journey through an intensive 8-week Data Technician Bootcamp delivered by Leep Talent. Through this program, I have developed a solid technical foundation in data lifecycle management, cloud infrastructure, and advanced analytics. This portfolio serves as a record of the skills I have built and a base that I am actively improving upon as I transition into professional/apprenticeship data analyst roles.
 
-Through this program, I have developed a **solid technical foundation** in data lifecycle management, cloud infrastructure, and advanced analytics. This portfolio serves as a record of the skills I have built and a base that I am actively improving upon as I transition into professional data roles.
 
 ---
 
