@@ -1,24 +1,65 @@
-# 📊 Data Technician Curriculum Portfolio
+# 🎓 Data Technician Professional Portfolio
+![Excel](https://img.shields.io)
+![SQL](https://img.shields.io)
+![Power BI](https://img.shields.io)
+![Python](https://img.shields.io)
 
-Welcome to my learning journey! This repository contains my workbooks and project snapshots completed during the Data Technician program.
+## 🚀 About the Program
+This repository documents my journey through an intensive **8-week Data Technician Bootcamp** delivered by **Leep Talent**. 
 
-## 🗓️ Curriculum Overview
+Through this program, I have developed a **solid technical foundation** in data lifecycle management, cloud infrastructure, and advanced analytics. This portfolio serves as a record of the skills I have built and a base that I am actively improving upon as I transition into professional data roles.
+
+---
+
+## 🗓️ Curriculum Roadmap
+
+### 📊 Week 1: Introduction to Data & Excel
+*Focus: Data Foundations and Exploratory Analysis*
+- **Core Concepts:** Data lifecycles, data types (structured vs. unstructured), and the role of data in strategic decision-making.
+- **Technical Skills:** Advanced data entry, hygiene, and cleansing.
+- **Analysis:** Leveraging Excel for statistical analysis and creating dynamic visualisations to communicate insights.
+
+### 📈 Week 2: Business Intelligence (Tableau & Power BI)
+*Focus: Interactive Dashboards and Data Storytelling*
+- **Navigation:** Deep dive into the UI, features, and functions of industry-leading BI tools.
+- **ETL Processes:** Importing data from diverse sources and performing data transformations.
+- **Visualisation:** Conducting end-to-end data analysis and building interactive reports for stakeholders.
+
+### 🗄️ Week 3: Database Design & SQL
+*Focus: Relational Databases and Data Manipulation*
+- **Architecture:** Database structuring and relational design principles (ERDs).
+- **Normalization:** Implementing entry-level normalization to ensure data integrity.
+- **SQL Mastery:** Full **CRUD** (Create, Read, Update, Delete) operations and complex querying for data retrieval.
+
+> 💡 **Note on Week 4:** Week 4 was dedicated to **Career Support & Professional Branding**, including CV optimization, elevator pitches, LinkedIn profile enhancements, and interview coaching.
+
+### ☁️ Week 5: Fundamentals of Microsoft Azure
+*Focus: Cloud Data Solutions & Infrastructure*
+- **Cloud Concepts:** Understanding how data is stored, managed, and processed at scale in the cloud.
+- **Data Models:** Comparative analysis of relational vs. non-relational (NoSQL) data storage.
+- **Analytics:** Exploring Azure analytics workloads and modern data warehousing.
+
+### 🐍 Week 6: Programming for Data (Python)
+*Focus: Automation and Advanced Analytics*
+- **Foundations:** Introduction to programming logic, syntax, and automation scripts.
+- **Data Manipulation:** Using **Pandas** and **NumPy** for high-performance data processing.
+- **Visualization:** Crafting sophisticated statistical graphics using **Matplotlib** and **Seaborn**.
+
+---
+
+## 🛠️ Technical Stack Summary
 
 
-| Week | Topic | Workbook | Preview |
-| :--- | :--- | :--- | :--- |
-| **Week 1** | Intro to Excel & Data Analysis | [View PDF](./Data_Technician_Workbook%20-%20Copy.pdf) | ![Week 1](./Week%201%20workbook%20image.jpeg) |
-| **Week 2** | Tableau & Power BI | [View PDF](./Data_Technician_Workbook_Week_2.pdf) | ![Week 2](./Week%202%20workbook%20image.jpeg) |
-| **Week 3** | Database Design & SQL | [View PDF](./Data_Technician_Workbook_Week_3.pdf) | ![Week 3](./Week%203%20workbook%20image.png) |
-| **Week 5** | Fundamentals of Azure | [View PDF](./Data_Technician_Workbook_Week_5%20(1)%20-%20Copy.pdf) | ![Week 5](./Week%205%20workbook%20image.jpeg) |
-| **Week 6** | Python & Data Visualisation | [View PDF](./Data_Technician_Workbook_Week_6%20-%20Copy.pdf) | ![Week 6](./Week%206%20workbook%20image.jpeg) |
+| Category | Tools & Languages |
+| :--- | :--- |
+| **Analysis** | Excel, Python (Pandas, NumPy) |
+| **Visualisation** | Power BI, Tableau, Matplotlib, Seaborn |
+| **Databases** | SQL (PostgreSQL/MySQL), Relational Design |
+| **Cloud** | Microsoft Azure Fundamentals |
 
-## 🛠️ Key Skills Learned
-* **Data Analysis:** Cleaning and analyzing data using Excel.
-* **Visualization:** Creating dashboards in Tableau and Power BI.
-* **Databases:** Designing schemas and writing SQL queries.
-* **Cloud:** Navigating the Azure ecosystem.
-* **Programming:** Python scripting with libraries like Pandas and Matplotlib.
+---
+*Developed during the Leep Talent Data Bootcamp • 2026*
+
 
 ---
 *Last updated: March 2026*
