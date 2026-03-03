@@ -129,7 +129,7 @@ This week focused on preparing for industry readiness and career positioning.
 
 ---
 
-## ✅ Week 5 – Fundamentals of Azure (4 Days)
+##  Week 5 – Fundamentals of Azure (4 Days)
 
 **Topics Covered:**
 - Core data concepts  
@@ -167,7 +167,7 @@ This week focused on preparing for industry readiness and career positioning.
  **Workbook:**  
 [View Week 6 Workbook](Data%20Technician%20WorkBooks/Data_Technican_Week_6_WorkBook.pdf)
 
-### 📷 Project Visuals
+###  Project Visuals
 
 <p align="center">
   <img src="Image%20folders/Week6%20image.png" width="80%"/>
