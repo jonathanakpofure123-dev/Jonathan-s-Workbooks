@@ -7,8 +7,8 @@
   Structured • Analytical • Detail-Oriented • Career-Focused
 </p>
 
-[**Visit my LinkedIn**] (https://www.linkedin.com/in/jonathan-akpofure-82b13b1ba/)
-[**Visit my Website**]  (//https://sites.google.com/view/jonathan-akpofure/home)
+**Visit my LinkedIn** https://www.linkedin.com/in/jonathan-akpofure-82b13b1ba/
+**Visit my Website**  //https://sites.google.com/view/jonathan-akpofure/home
   
 
 
