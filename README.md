@@ -7,6 +7,10 @@
   Structured • Analytical • Detail-Oriented • Career-Focused
 </p>
 
+[![LinkedIn](https://img.shields.io)](https://www.inkedin.com/in/jonathan-akpofure-82b13b1ba/)  [![Google Sites](https://img.shields.io)](https://https://sites.google.com/view/jonathan-akpofure/home)
+
+
+
 ---
 
 #  Professional Profile
